@@ -1,0 +1,13 @@
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.exe
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.deps.json
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.runtimeconfig.json
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.runtimeconfig.dev.json
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.dll
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\bin\Debug\netcoreapp3.1\csharp-basics.pdb
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.csprojAssemblyReference.cache
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.AssemblyInfo.cs
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.dll
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.pdb
+C:\Users\Artem\Documents\prog-practice\Practice\csharp-basics\obj\Debug\netcoreapp3.1\csharp-basics.genruntimeconfig.cache
