@@ -9,55 +9,55 @@ namespace practice
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            // Testing QuickSort
+        // static void Main(string[] args)
+        // {
+        //     // Testing QuickSort
 
-            int[] unsorted = { 1, 11, 1, 0, -5, 6 };
-            List<int> fart = new List<int>(unsorted);
-            Console.WriteLine("Fart b4");
-            foreach (int i in fart)
-            {
-                Console.WriteLine(i);
-            }
+        //     int[] unsorted = { 1, 11, 1, 0, -5, 6 };
+        //     List<int> fart = new List<int>(unsorted);
+        //     Console.WriteLine("Fart b4");
+        //     foreach (int i in fart)
+        //     {
+        //         Console.WriteLine(i);
+        //     }
 
-            var sort = QuickSort(fart);
+        //     var sort = QuickSort(fart);
 
-            Console.WriteLine("Fart now:");
-            foreach (int i in sort)
-            {
-                Console.WriteLine(i);
-            }
+        //     Console.WriteLine("Fart now:");
+        //     foreach (int i in sort)
+        //     {
+        //         Console.WriteLine(i);
+        //     }
 
-            // Testing MergeSortedArrs
+        //     // Testing MergeSortedArrs
 
-            int[] merge1 = { 1, 2, 6, 8, 10 };
-            List<int> shorter = new List<int>(merge1);
+        //     int[] merge1 = { 1, 2, 6, 8, 10 };
+        //     List<int> shorter = new List<int>(merge1);
 
-            int[] merge2 = { 0, 3, 3, 4, 9, 15, 16 };
-            List<int> longer = new List<int>(merge2);
+        //     int[] merge2 = { 0, 3, 3, 4, 9, 15, 16 };
+        //     List<int> longer = new List<int>(merge2);
 
-            var merged = MergeSortedArrs(shorter, longer);
-            Console.WriteLine("Merged now:");
-            foreach (int i in merged)
-            {
-                Console.WriteLine(i);
-            }
+        //     var merged = MergeSortedArrs(shorter, longer);
+        //     Console.WriteLine("Merged now:");
+        //     foreach (int i in merged)
+        //     {
+        //         Console.WriteLine(i);
+        //     }
 
-            // Testing missingN
+        //     // Testing missingN
 
-            int[] subsequent = { 1, 2, 3, 4, 6, 7, 8 };
-            var missing = missingN(subsequent);
-            Console.WriteLine("Missing number: ");
-            Console.WriteLine(missing);
+        //     int[] subsequent = { 1, 2, 3, 4, 6, 7, 8 };
+        //     var missing = missingN(subsequent);
+        //     Console.WriteLine("Missing number: ");
+        //     Console.WriteLine(missing);
 
-            // Testing MostOccurences
+        //     // Testing MostOccurences
 
-            int[] occurences = { 1, 1, 3, 4, 1, 2, 3, 4, 5, 3, 9, 2, 3, 4, 1, 2, 3, 10, 3 }; // Should be 3??
-            var mode = mostRepetitive(occurences);
-            Console.WriteLine("Most occurences: ");
-            Console.WriteLine(mode);
-        }
+        //     int[] occurences = { 1, 1, 3, 4, 1, 2, 3, 4, 5, 3, 9, 2, 3, 4, 1, 2, 3, 10, 3 }; // Should be 3??
+        //     var mode = mostRepetitive(occurences);
+        //     Console.WriteLine("Most occurences: ");
+        //     Console.WriteLine(mode);
+        // }
 
         static void JustNumbers()
         {
@@ -139,12 +139,12 @@ namespace practice
             return nextPrime;
         }
 
-        /* Recursive (hopefully) method to get the Nth prime number.
-         * Will use sieve
-         * 
+        /* Get the Nth prime number.
          */
         static int NthPrime(int prev)
         {
+            // Something like --
+            // While the list is not len == N, run sieve and get the next number
             return 0;
         }
 
